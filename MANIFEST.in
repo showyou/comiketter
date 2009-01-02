@@ -1,0 +1,2 @@
+recursive-include comiketter/public *
+recursive-include comiketter/templates *

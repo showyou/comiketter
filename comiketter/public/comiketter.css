@@ -1,0 +1,42 @@
+#uname{
+	font-size:140%;
+}
+
+#upos{
+	font-size:140%;
+}
+
+#update{
+	font-size:75%;
+	color:#444444;
+	background-color:#eeeeee;
+}
+
+body{
+    background-color:#cccccc;
+}
+
+h1{
+	//border-left:4px solid black;
+	//border-right:1px solid black;
+	//background-color:#ffffff;
+	color:#ffffff;
+}
+
+#menu{
+
+}
+
+#contents{
+	background-color:#ffffff;
+}
+.message{
+    //background-color:#ffffff;
+	margin:0.2em;
+}
+
+form{
+	border:black dotted 1px;
+    //background-color:#eeeeee;
+	margin:1em;
+}
